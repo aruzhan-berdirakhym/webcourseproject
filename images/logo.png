@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Aruzhan Berdirakhym — Web Development Portfolio</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+    <header>
+        <img src="images/logo.png" alt="Logo" width="120">
+        <h1>Welcome to my Web Development Project</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>My name is Aruzhan Berdirakhym. I completed the SoloLearn "Web Development" course (30 study hours) covering HTML, CSS, and JavaScript, with interactive lessons, quizzes, and projects.</p>
+        </section>
+
+        <section>
+            <h2>Pages</h2>
+            <ul>
+                <li><a href="about.html">About Me</a></li>
+                <li><a href="tasks.html">Tasks</a></li>
+            </ul>
+        </section>
+    </main>
+
+</body>
+</html>
